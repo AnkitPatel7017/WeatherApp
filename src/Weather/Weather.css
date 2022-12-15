@@ -1,0 +1,6 @@
+.container-fluid{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../Images/sky.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
